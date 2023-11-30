@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* STYLE */
+.number {
+  font-size: 4rem;
+  font-weight: bold;
+  margin: -1.2rem;
+}
+.suit {
+  font-size: 3.5rem;
+  color: black;
+  padding: 0 !important;
+  margin: 2.5rem 1rem;
+  line-height: 0;
+}
+.suitBottom {
+  transform: rotate(-180deg);
+}
